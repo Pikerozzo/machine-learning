@@ -3,7 +3,7 @@
 
 This project focused on analyzing and modeling the "Insurance" dataset. The dataset includes attributes such as age, sex, BMI, region, number of children, smoking status, and insurance charges.
 
-The objectives of the project are:
+The objectives of the project were:
 
 - Perform data analysis to uncover insights and patterns.
 - Develop regression models to predict insurance charges.
